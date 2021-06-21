@@ -1,0 +1,2 @@
+# SkillIdiots
+Our EdTech website
